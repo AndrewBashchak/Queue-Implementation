@@ -1,2 +1,2 @@
-# Queue-Implementation
-Queue operation according to the FIFO principle
+# Queue Implementation
+Andrew Bashchak, student of KDU, group: SEs-24-2
